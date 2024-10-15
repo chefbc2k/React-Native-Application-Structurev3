@@ -10,8 +10,8 @@
     "react": "^18.2.0",
     "react-nativescript": "^5.0.0",
     "react-nativescript-navigation": "^5.0.0",
-    "@react-native-firebase/app": "^15.4.0",
-    "@react-native-firebase/analytics": "^15.4.0"
+    "@react-native-firebase/app": "^21.0.0",
+    "@react-native-firebase/analytics": "^21.0.0"
   },
   "devDependencies": {
     "@nativescript/preview-cli": "1.0.13",
